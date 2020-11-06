@@ -1,0 +1,7 @@
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\bin\Debug\RTS_Labs.exe.config
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\bin\Debug\RTS_Labs.exe
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\bin\Debug\RTS_Labs.pdb
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\obj\Debug\RTS_Labs.csprojAssemblyReference.cache
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\obj\Debug\RTS_Labs.csproj.CoreCompileInputs.cache
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\obj\Debug\RTS_Labs.exe
+C:\Users\MCL\source\repos\RTS_Labs\RTS_Labs\obj\Debug\RTS_Labs.pdb
